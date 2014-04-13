@@ -1,0 +1,20 @@
+Feel free to add/delete from this list.
+
+1. Play
+    a. Practice
+    b. Online
+    c. Challenge a Friend
+2. Friends
+    a. Friend List
+    b. ID Search / Add Friend
+    c. Delete / Remove a Friend
+    d. Challenge a Friend
+3. Help
+    a. Tutorial
+    b. Tips
+4. Shop
+5. Achievements
+6. Settings
+    a. Volume / Sound
+    b. Colorblind Mode
+    c. Change Avatar

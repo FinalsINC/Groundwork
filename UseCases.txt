@@ -2,19 +2,22 @@ Feel free to add/delete from this list.
 
 1. Play
     a. Practice
-<<<<<<< HEAD
     	a. Easy (Addition / Subtraction)
 	b. Medium (Multiplication / Division)
 	c. Hard (ALL OF THEM)
-=======
->>>>>>> c03eafd0d4320a25d2f1c627806753fb505ebc70
     b. Online
+    	a. Easy
+	b. Medium
+	c. Hard
+	d. Matchmaking (???)
     c. Challenge a Friend
+    	a. Pick an Online Friend
 2. Friends
     a. Friend List
     b. ID Search / Add Friend
     c. Delete / Remove a Friend
     d. Challenge a Friend
+    	a. Pick an Online Friend
 3. Help
     a. Tutorial
     b. Tips

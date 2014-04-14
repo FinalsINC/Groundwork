@@ -1,0 +1,18 @@
+According to Flurry Analytics: 
+
+Arcade games are equally played by both genders
+
+66% growth rate 2012-2013 in Game Apps
+	-Plenty of room for growth
+
+32% of time spent on iOS and Adroid devices is spent on Games
+	- The largest category of all apps
+	- Second is facebook 18%
+
+-In 2012 more than 52% of user sessions world wide were sepent in games
+-Indie game developers are thriving with 68% of World wide sessions
+	-Great chances for a success
+
+
+Our game app will include both sigle player mode and a challage mode
+	-> adds a real-time, social aspect to the arcade game.

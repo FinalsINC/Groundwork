@@ -8,13 +8,14 @@ Feel free to add/delete from this list.
 5. Vs Medium
 6. Vs Hard
 7. Tutorial
-8. Achievemnets
+8. Achievements
 9. Change Volume Settings
-10. Getting 5 additions in a row correctly (remove red blocks)
-11. Getting 5 subtractions in a row correctly (remove blue blocks)
-12. Getting 5 Multiplications in a row correctly (remove green blocks)
-13. Getting 5 Divisions in a row correctly (remove yellow blocks)
-14. Getting 10 operations in a row correctly 
+10. Exit Game
+11. Getting 5 additions in a row correctly (remove red blocks)
+12. Getting 5 subtractions in a row correctly (remove blue blocks)
+13. Getting 5 Multiplications in a row correctly (remove green blocks)
+14. Getting 5 Divisions in a row correctly (remove yellow blocks)
+15. Getting 10 operations in a row correctly 
     (only in vs mode enables special button-special button increases difficulty of opponents game)
-14a. Using special-button
-15. Entering wrong answer/ block drops to the bottom with no answer 
+15a. Using special-button
+16. Entering wrong answer/ block drops to the bottom with no answer 
